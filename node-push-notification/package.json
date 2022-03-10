@@ -1,0 +1,16 @@
+{
+  "name": "@duypv/node-push-notification",
+  "version": "1.0.0",
+  "description": "Demo Webpush & Service worker notification",
+  "main": "index.js",
+  "author": "Traversy Media, duypv98",
+  "license": "ISC",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "web-push": "^3.4.5"
+  }
+}
